@@ -1,0 +1,108 @@
+*{
+    margin: 0px auto;
+    padding: 0px;
+}
+.container{
+    color: white;
+    background: #DDDFD4;
+    width: 1000px;
+    height: 1000px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-top: 1px;
+}
+header{
+    background: #04B1AD;
+    margin: 25px;
+    padding: 10px;
+}
+header h1{
+    color: #042636;
+    display: inline-block;
+    text-align: left;
+    margin-right: 185px;
+}
+header img{
+    height: 29px;
+}
+header a{
+    color: white;
+    text-align: right;
+}
+.content{
+    background: #FFE499;
+    width: 950px;
+    height: 585px;
+}
+sidebar{
+    background: #0A4043;
+    display: inline-block;
+    width: 220px;
+    height: 535px;
+    margin: 15px;
+    padding: 10px;
+}
+
+sidebar p{
+    text-align: left;
+    padding: 15px;
+}
+
+h2{
+    text-align: left;
+    padding: 10px;
+    padding-bottom: 0px;
+
+}
+article{
+    width: 675px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+article p{
+    text-align: left;
+    padding: 15px; 
+}
+
+h3{
+    text-align: left;
+    padding: 10px;
+    padding-bottom: 0px;
+}
+
+.box1{
+    background: #0A4043;
+    display: inline-block;
+    width: 192px;
+    height: 165px;
+    vertical-align: top;
+    margin: 15px;
+}
+
+.box2{
+    background: #0A4043;
+    display: inline-block;
+    width: 305px;
+    height: 165px;
+    vertical-align: top;
+    margin: 15px;
+}
+
+.box3{
+    background: #0A4043;
+    display: inline-block;
+    height: 165px;
+    margin: 15px;
+}
+
+footer{
+    color: black;
+    background: #04B1AD;
+    padding: 10px;
+    margin: 10px;
+}
+
+footer p{
+    display: inline-block;
+}
